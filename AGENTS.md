@@ -10,8 +10,8 @@ production repository and must not become a runnable clone.
   internals.
 - Do not add real URLs, resource names, workflow files, schema details, secrets,
   or environment files.
-- Keep this repo docs-first and suite-level unless Justin explicitly approves a
-  specific excerpt.
+- Keep this repo docs-first and suite-level. Small sanitized suite-level code
+  excerpts are allowed only when they avoid production internals.
 
 ## Purpose
 

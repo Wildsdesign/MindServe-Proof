@@ -48,6 +48,7 @@ flowchart TB
 | `OPERATING_MODEL.md` | How Wilds builds and hardens software with agents |
 | `SECURITY_AND_TENANCY.md` | Facility isolation and auth posture at a safe level |
 | `INTELLIGENCE_LAYER.md` | Strategic +Add Intelligence direction without engine details |
+| `CODE_EXCERPTS.md` | Small, sanitized suite-level TypeScript excerpts |
 | `PUBLIC_BOUNDARY.md` | What this proof repo intentionally excludes |
 
 ## What Is Deliberately Omitted

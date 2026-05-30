@@ -12,6 +12,7 @@ architectural rather than cloneable.
 - ADR discipline
 - AI-assisted operating model
 - intelligence-layer strategic direction
+- small suite-level code excerpts that do not expose implementation internals
 - non-sensitive screenshots later, if explicitly reviewed
 
 ## Not Safe To Show Here
