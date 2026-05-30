@@ -46,9 +46,3 @@ documents the direction and the architecture posture that makes it plausible:
 - cloud deployment discipline
 - ADR-driven hardening
 - future capability exposure
-
-## Relationship To Atlier
-
-Atlier is the product/magic layer where attention and context composition can
-become visible. MindServe is one of the operational foundations that could
-eventually feed that kind of composition.
