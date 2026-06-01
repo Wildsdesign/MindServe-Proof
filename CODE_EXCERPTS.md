@@ -12,3 +12,6 @@ maps, schemas, credentials, resource names, or commercially sensitive internals.
 
 MindServe proof stays suite-level. Deeper implementation proof belongs in
 product-specific artifacts such as Grocery proof, not here.
+
+Before adding a new excerpt, check `PROOF_REPO_STANDARD.md`. The excerpt should
+help a reader evaluate design judgment without exposing production mechanics.

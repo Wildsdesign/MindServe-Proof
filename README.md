@@ -5,8 +5,22 @@ operations software suite.
 
 This repository is intentionally **not** the production source tree. It is a
 public-reviewable architecture and product-thinking artifact that shows the
-suite concept, operating model, deployment posture, and engineering discipline
-without exposing the commercially valuable core implementation.
+suite concept, operating model, deployment posture, security discipline, and
+AI-assisted build method without exposing the commercially valuable core
+implementation.
+
+## How To Read This Repo
+
+Start here if you are evaluating Justin Wilds or MindServe technically:
+
+1. Read [WHAT_THIS_PROVES.md](WHAT_THIS_PROVES.md) for the short evaluator view.
+2. Read [SUITE_ARCHITECTURE.md](SUITE_ARCHITECTURE.md) for the suite shape.
+3. Read [SECURITY_AND_TENANCY.md](SECURITY_AND_TENANCY.md) for the public-safe
+   security posture.
+4. Read [ADR_DIGEST.md](ADR_DIGEST.md) for decision discipline.
+5. Read [OPERATING_MODEL.md](OPERATING_MODEL.md) for the agentic build loop.
+6. Read [PUBLIC_BOUNDARY.md](PUBLIC_BOUNDARY.md) before asking why production
+   internals are not here.
 
 ## What MindServe Demonstrates
 
@@ -43,6 +57,7 @@ flowchart TB
 
 | File | Purpose |
 | --- | --- |
+| `WHAT_THIS_PROVES.md` | Short evaluator guide: what the repo is evidence for |
 | `SUITE_ARCHITECTURE.md` | System-of-systems shape and module relationships |
 | `ADR_DIGEST.md` | Selected suite-level decisions, sanitized |
 | `OPERATING_MODEL.md` | How Wilds builds and hardens software with agents |
@@ -50,6 +65,19 @@ flowchart TB
 | `INTELLIGENCE_LAYER.md` | Strategic +Add Intelligence direction without engine details |
 | `CODE_EXCERPTS.md` | Small, sanitized suite-level TypeScript excerpts |
 | `PUBLIC_BOUNDARY.md` | What this proof repo intentionally excludes |
+| `PROOF_REPO_STANDARD.md` | Reusable standard for Wilds public proof repos |
+
+## Evaluator Summary
+
+This repo is evidence of:
+
+- suite-level product architecture
+- operator-specific interface thinking
+- facility-scoped security posture
+- ADR-driven decision discipline
+- Azure-first delivery habits
+- agentic engineering as a repeatable operating model
+- disciplined public/private boundaries
 
 ## What Is Deliberately Omitted
 

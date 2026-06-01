@@ -32,8 +32,9 @@ architectural rather than cloneable.
 
 The deeper product-specific proof belongs in separate artifacts:
 
-- Grocery proof: deeper production/recipe/inventory architecture, curated and
-  protected.
-- MealMind proof: patient-facing ordering, voice, PHI-minimizing architecture.
+- Grocery-Proof: deeper production, recipe, and inventory architecture, curated
+  and protected.
+- MealMind-Proof: guided ordering, voice, protected-data boundaries, and
+  PHI-minimizing architecture.
 
 MindServe proof stays at the suite level.

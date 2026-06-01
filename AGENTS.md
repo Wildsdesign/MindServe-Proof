@@ -12,6 +12,10 @@ production repository and must not become a runnable clone.
   or environment files.
 - Keep this repo docs-first and suite-level. Small sanitized suite-level code
   excerpts are allowed only when they avoid production internals.
+- Preserve the proof-repo shape in `PROOF_REPO_STANDARD.md`: entry path,
+  what-this-proves argument, architecture, ADRs, operating model, code excerpts,
+  and explicit public/private boundary.
+- If adding proof, add evaluator clarity before adding volume.
 
 ## Purpose
 
