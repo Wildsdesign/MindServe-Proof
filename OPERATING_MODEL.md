@@ -9,7 +9,7 @@ implementation, verification, and documentation stay connected.
 
 ```mermaid
 flowchart LR
-    Product["Justin\nproduct and domain judgment"]
+    Product["Product owner\nproduct and domain judgment"]
     Strategy["Chat agent\narchitecture and specs"]
     Code["Code agent\nimplementation"]
     Repo["Repo\ndocs, ADRs, code, tests"]
@@ -33,8 +33,8 @@ flowchart LR
 
 ## Why This Is Proof
 
-MindServe is not just a product suite. It is evidence that Justin can coordinate
-domain knowledge, architecture, AI-assisted execution, and production validation
-into a working software portfolio.
+MindServe is not just a product suite. It demonstrates an operating model that
+coordinates domain knowledge, architecture, AI-assisted execution, and
+production validation into a working software portfolio.
 
 That operating model is part of the asset.

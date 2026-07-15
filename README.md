@@ -11,7 +11,7 @@ implementation.
 
 ## How To Read This Repo
 
-Start here if you are evaluating Justin Wilds or MindServe technically:
+Start here if you are evaluating MindServe technically:
 
 1. Read [WHAT_THIS_PROVES.md](WHAT_THIS_PROVES.md) for the short evaluator view.
 2. Read [SUITE_ARCHITECTURE.md](SUITE_ARCHITECTURE.md) for the suite shape.

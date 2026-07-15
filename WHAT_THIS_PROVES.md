@@ -1,11 +1,11 @@
 # What This Proves
 
-This repo exists for a technical evaluator who wants to understand what Justin
-Wilds can build without receiving the private MindServe production source.
+This repo exists for a technical evaluator who wants to understand the
+engineering behind MindServe without receiving the private production source.
 
 ## The Short Version
 
-MindServe proves that Justin can turn operational domain judgment into a
+MindServe demonstrates operational domain judgment turned into a
 multi-surface software system:
 
 - one shared operational foundation
