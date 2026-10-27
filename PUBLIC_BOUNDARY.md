@@ -34,7 +34,6 @@ The deeper product-specific proof belongs in separate artifacts:
 
 - Grocery-Proof: deeper production, recipe, and inventory architecture, curated
   and protected.
-- MealMind-Proof: guided ordering, voice, protected-data boundaries, and
-  PHI-minimizing architecture.
+- MealMind-Proof: guided ordering, voice, and protected-data boundaries.
 
 MindServe proof stays at the suite level.

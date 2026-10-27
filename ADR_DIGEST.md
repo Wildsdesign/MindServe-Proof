@@ -15,7 +15,7 @@ the underlying business truth.
 
 **Decision:** Treat facility context as the root operational boundary.
 
-**Why it matters:** Hospital and cafeteria operations require strict separation
+**Why it matters:** Cafeteria operations require strict separation
 between facilities. The product design starts from that separation instead of
 adding it later.
 
