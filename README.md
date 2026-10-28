@@ -3,11 +3,10 @@
 Curated technical proof artifact for MindServe, a Wilds, Inc. cafeteria
 operations software suite.
 
-This repository is intentionally **not** the production source tree. It is a
+This repository is intentionally **not** the private source tree. It is a
 public-reviewable architecture and product-thinking artifact that shows the
 suite concept, operating model, deployment posture, security discipline, and
-AI-assisted build method without exposing the commercially valuable core
-implementation.
+AI-assisted build method without exposing the private implementation.
 
 ## How To Read This Repo
 
@@ -93,4 +92,4 @@ This proof repo does not include:
 
 ## Status
 
-Curated proof artifact. Production MindServe remains private.
+Curated proof artifact. The MindServe source remains private.

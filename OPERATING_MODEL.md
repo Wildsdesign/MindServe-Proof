@@ -36,5 +36,3 @@ flowchart LR
 MindServe is not just a product suite. It demonstrates an operating model that
 coordinates domain knowledge, architecture, AI-assisted execution, and
 production validation into a working software portfolio.
-
-That operating model is part of the asset.

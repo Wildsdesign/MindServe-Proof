@@ -46,8 +46,7 @@ proof.
 ### 5. Boundary Judgment
 
 This repo shows enough to evaluate the work while excluding production source,
-schemas, endpoint maps, resource names, customer data, and commercially
-sensitive internals.
+schemas, endpoint maps, resource names, customer data, and sensitive internals.
 
 ## What This Does Not Prove
 
@@ -55,5 +54,4 @@ This repo does not prove every private implementation detail of MindServe. It is
 not a runnable clone and should not become one.
 
 For deeper evaluation, use this repo as a public architecture and operating
-artifact, then request a guided technical walkthrough if a private review is
-appropriate.
+artifact.

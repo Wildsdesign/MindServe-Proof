@@ -1,6 +1,6 @@
 # Public Boundary
 
-MindServe has real market value. This proof repo is intentionally strategic and
+This proof repo is intentionally strategic and
 architectural rather than cloneable.
 
 ## Safe To Show
